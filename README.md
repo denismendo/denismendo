@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denis
-- 👀 I’m looking for job
+- 👀 I’m looking for a job
 
 <!---
 denismendo/denismendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
